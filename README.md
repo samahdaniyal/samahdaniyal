@@ -14,7 +14,7 @@ I am a final-year Computer Science student with a focus on **Machine Learning**,
 
 ---
 
-### 🛠️ Technical Toolkit
+### Technical Toolkit
 * **Languages**: Python, C++, SQL, TypeScript 
 * **AI/ML**: PyTorch, NumPy, Matplotlib, LangChain, Hugging Face 
 * **Data**: MS SQL Server, PostgreSQL, Power BI 
