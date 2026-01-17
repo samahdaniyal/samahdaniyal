@@ -1,30 +1,24 @@
 # 💫 About Me:
 
-I am a final-year Computer Science student with a focus on **Machine Learning**, **Deep Learning**, and **Foundation Models**. I enjoy building AI solutions that bridge the gap between complex research and real-world applications, particularly in multilingual and low-resource settings.
+I am a final-year Computer Science student with a focus on **Machine Learning**, **Deep Learning**, and **Artificial Intelligence**. I enjoy building AI solutions that bridge the gap between complex research and real-world applications, particularly in multilingual and low-resource settings.
 
-### 🔭 I’m currently working on:
+### I’m currently working on:
 
-* 
-**AI-Powered Multilingual Public Chat Portal** for AlKhidmat—a production-grade RAG assistant for NGO services.
+* **AI-Powered Multilingual Public Chat Portal** a production-grade RAG assistant for NGO services.
 * **Multilingual Online Polarization Detection** (SemEval 2026 Task 9) using cross-lingual NLP pipelines.
 * **Result Management System** for an under-resourced school to digitize and automate academic records.
 
-### 🌱 I’m currently learning:
+### I’m currently learning:
 
 * Advanced **Large Language Models**, **Deep Learning** architectures, and **Agentic AI**.
 
 ---
 
 ### 🛠️ Technical Toolkit
-* 
-**Languages**: Python, C++, SQL, TypeScript 
-* 
-**AI/ML**: PyTorch, NumPy, Matplotlib, LangChain, Hugging Face 
-* 
-**Data**: MS SQL Server, PostgreSQL, Power BI 
-* 
-**Web**: Next.js, Tailwind CSS, FastAPI, Node.js 
-
+* **Languages**: Python, C++, SQL, TypeScript 
+* **AI/ML**: PyTorch, NumPy, Matplotlib, LangChain, Hugging Face 
+* **Data**: MS SQL Server, PostgreSQL, Power BI 
+* **Web**: Next.js, Tailwind CSS, FastAPI, Node.js 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/samah-daniyal-) 
