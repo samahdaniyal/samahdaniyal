@@ -1,5 +1,29 @@
 # 💫 About Me:
-I am a final-year Computer Science student with a focus on **Machine Learning**, **Deep Learning**, and **Foundation Models**. I enjoy building AI solutions that bridge the gap between complex research and real-world applications, particularly in multilingual and low-resource settings.<br><br>I’m currently working on:<br>* **AI-Powered Multilingual Public Chat Portal** for AlKhidmat—a production-grade RAG assistant for NGO services.<br>* **Multilingual Online Polarization Detection** (SemEval 2026 Task 9) using cross-lingual NLP pipelines.<br>* **Result Management System** for an under-resourced school to digitize and automate academic records.<br><br>*  **I’m currently learning**:<br>* Advanced **Large Language Models**, **Deep Learning** architectures, and Agentic AI.<br><br>---<br><br> ### 🛠️ Technical Toolkit<br><br>* <br>**Languages**: Python, C++, SQL, TypeScript <br>* <br>**AI/ML**: PyTorch, NumPy, Matplotlib, LangChain, Hugging Face <br>* <br>**Data**: MS SQL Server, PostgreSQL, Power BI <br>* <br>**Web**: Next.js, Tailwind CSS, FastAPI, Node.js 
+
+I am a final-year Computer Science student with a focus on **Machine Learning**, **Deep Learning**, and **Foundation Models**. I enjoy building AI solutions that bridge the gap between complex research and real-world applications, particularly in multilingual and low-resource settings.
+
+### 🔭 I’m currently working on:
+
+* 
+**AI-Powered Multilingual Public Chat Portal** for AlKhidmat—a production-grade RAG assistant for NGO services.
+* **Multilingual Online Polarization Detection** (SemEval 2026 Task 9) using cross-lingual NLP pipelines.
+* **Result Management System** for an under-resourced school to digitize and automate academic records.
+
+### 🌱 I’m currently learning:
+
+* Advanced **Large Language Models**, **Deep Learning** architectures, and **Agentic AI**.
+
+---
+
+### 🛠️ Technical Toolkit
+* 
+**Languages**: Python, C++, SQL, TypeScript 
+* 
+**AI/ML**: PyTorch, NumPy, Matplotlib, LangChain, Hugging Face 
+* 
+**Data**: MS SQL Server, PostgreSQL, Power BI 
+* 
+**Web**: Next.js, Tailwind CSS, FastAPI, Node.js 
 
 
 ## 🌐 Socials:
