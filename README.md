@@ -18,7 +18,7 @@ I am a final-year Computer Science student with a focus on **Machine Learning**,
 * **Languages**: Python, C++, SQL, TypeScript 
 * **AI/ML**: PyTorch, NumPy, Matplotlib, LangChain, Hugging Face 
 * **Data**: MS SQL Server, PostgreSQL, Power BI 
-* **Web**: Next.js, Tailwind CSS, FastAPI, Node.js 
+* **Web**: Next.js, Tailwind CSS, FastAPI 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/samah-daniyal-) 
